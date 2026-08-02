@@ -1,6 +1,6 @@
 # shared_memory_in_parallel_code_
 
-_Computadores ensinam bastante coisa! Por exemplo, no caso do fork(), o processo filho, embora seja uma cópia do pai, ele é apenas uma cópia! Suas memórias são agora -- após child_pid = os.fork() -- suas memórias! Já com multi-threading, as threads compartilham o mesmo espaço na memória. O q gera condiçoes indesejaveis como deadlocks, racecondition (qnd dois ou mais processos acessam a mesma regiao da memoria) etc.._
+_Computadores ensinam bastante coisa! Por exemplo, no caso do fork(), o processo filho, embora seja uma cópia do pai, ele é apenas uma cópia! Suas memórias são agora - após child_pid = os.fork() - suas memórias! Já com multi-threading, as threads compartilham o mesmo espaço na memória. O q gera condiçoes indesejaveis como deadlocks, racecondition (qnd dois ou mais processos acessam a mesma regiao da memoria) etc.._
 
 <br>
 
