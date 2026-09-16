@@ -28,6 +28,12 @@ _Embora houve um append() em main_buffer a chamada à funçao print(main_buffer)
 
 NOTE: REVISAR TD ISSO AE.
 
+
+_Sobre share memory in parallel code_ ?? com fork() ....com fork usa-se IPC_
+....
+.... CONTINUAR 
+....
+
 <br>
 
 # " <br>
