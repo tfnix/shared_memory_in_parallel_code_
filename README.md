@@ -24,7 +24,7 @@ def main():
 
 ```
 
-_Embora houve um append() em main_buffer()_ a chamada à funçao print(main_buffer), do proc principal, continua com o mesmo conteudo_
+_Embora houve um append() em main_buffer a chamada à funçao print(main_buffer), do proc principal, continua com o mesmo conteudo_
 
 NOTE: REVISAR TD ISSO AE.
 
